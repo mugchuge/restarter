@@ -1,0 +1,4 @@
+name: Restarter
+version: '${project.version}'
+main: com.io.restarter.RestarterPlugin
+api-version: 1.16
