@@ -1,4 +1,0 @@
-name: Restarter
-version: '${project.version}'
-main: com.io.restarter.Restarter
-api-version: 1.16
